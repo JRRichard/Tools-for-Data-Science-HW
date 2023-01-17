@@ -2,6 +2,7 @@
 Assignment submission for Coursera Tools for Data Science
 
 Six tasks were assigned and have been completed as follows:
+
     Cell 1 (rendered as Markdown): The title should be "My Jupyter Notebook on IBM Watson Studio", in H1 header styling. The title does not need to be centered.
 
     Cell 2 (rendered as Markdown): Include your name, in bold characters. In the line below your name, write your current or desired occupation in regular font.
